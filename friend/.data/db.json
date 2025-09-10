@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "Address": 5,
+    "Friend": 4
+  },
+  "models": {
+    "Address": {
+      "1": "{\"id\":1,\"city\":\"buda\",\"postcode\":\"1123\",\"street\":\"pista\",\"house_number\":\"26\"}",
+      "2": "{\"city\":\"buda2\",\"postcode\":\"11232\",\"street\":\"pista2\",\"house_number\":\"262\",\"id\":2}",
+      "3": "{\"city\":\"buda23\",\"postcode\":\"112332\",\"street\":\"pista32\",\"house_number\":\"2632\",\"id\":3}",
+      "4": "{\"city\":\"yes\",\"postcode\":\"11\",\"street\":\"string\",\"house_number\":\"3\",\"friendId\":1,\"id\":4}"
+    },
+    "Friend": {
+      "1": "{\"firstname\":\"Adrian\",\"lastname\":\"Nagy\",\"id\":1}",
+      "2": "{\"firstname\":\"Adrian\",\"lastname\":\"Nagy\",\"id\":2}",
+      "3": "{\"firstname\":\"Adrian\",\"lastname\":\"Nagy\",\"id\":3}"
+    }
+  }
+}
